@@ -1,0 +1,25 @@
+<html>
+<head>
+		
+		<title>Accrediation</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://fonts.googleapis.com/css?family=Quicksand:300" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+		<link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+</head>
+<body>
+	
+	<div class="wrapper">
+		<h1>Accrediation</h1>
+		<ul class="nav">
+			
+			<li><a href="About.html">About</a></li>
+			<li><a href="Contactus.html">Contact</a></li>
+			<li><a href="Signin.html">SignIN</a></li>
+			<li><a href="Signup.html">SignUP</a></li>
+		</ul>
+	
+	</div>	
+</body>
+</html>
