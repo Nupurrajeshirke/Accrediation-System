@@ -1,0 +1,1 @@
+﻿create table tt1(Programcode varchar(max),Programname varchar(max),Yearofintro varchar(max),Statusofimplement varchar(max),Soi varchar(max),Yor varchar(max),Percentageofcontent varchar(max));
